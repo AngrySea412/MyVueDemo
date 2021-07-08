@@ -1,2 +1,3 @@
 # MyVueDemo
 Studying Vue Noet Mode 
+this is my frist commit code .  Hello word I comming....
